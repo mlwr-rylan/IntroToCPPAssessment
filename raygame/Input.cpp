@@ -18,9 +18,12 @@ void Input::update(float deltaTime)
 
 	if (IsKeyPressed(KEY_D))
 	{
-		direction = (1, 0);
+		
 	}
+	if (IsKeyPressed(KEY_A))
+	{
 
+	}
 
 
 }
